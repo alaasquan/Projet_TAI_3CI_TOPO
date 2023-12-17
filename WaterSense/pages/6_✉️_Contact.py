@@ -9,7 +9,6 @@ import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
 
-import geemap
 from ipyleaflet import Map, SplitMapControl, TileLayer
 from geemap import foliumap
 from rasterio.transform import from_origin
